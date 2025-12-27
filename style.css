@@ -87,6 +87,7 @@
 }
 #random{
     padding: 70px 0;
+    margin: 95px 0;
 }
 .principal-text{
     font-size: 24px;
@@ -118,4 +119,27 @@
     font-size: 18px;
     text-align: center;
     max-width: 170px;
+}
+#phrase{
+    background-color: #E5E7EB;
+    padding: 50px;
+}
+.phrase-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 400px;
+    padding: 100px;
+}
+.inspiring{
+    font-size: 36px;
+    text-align: justify;  
+    font-weight: 300;
+    font-style: italic;
+}
+.thor{
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    font-size: 24px;
 }
